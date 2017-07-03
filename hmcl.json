@@ -1,0 +1,64 @@
+{
+  "last": "奶·六花服 8周目",
+  "clientToken": "ddfd118d-635b-4eb0-88dd-880573d5ca10",
+  "enableShadow": true,
+  "enableBlur": true,
+  "enableAnimation": true,
+  "decorated": false,
+  "theme": "blue",
+  "localization": "zh_CN",
+  "logintype": 0,
+  "downloadtype": 1,
+  "configurations": {
+    "Default": {
+      "selectedMinecraftVersion": "1.7.10",
+      "gameDir": ".minecraft",
+      "noCommon": false,
+      "global": {
+        "usesGlobal": false,
+        "minecraftArgs": "",
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "1.8.0_112",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "launcherVisibility": 1,
+        "gameDirType": 0
+      }
+    },
+    "奶·六花服 8周目": {
+      "selectedMinecraftVersion": "1.7.10-Forge10.13.4.1614-1.7.10",
+      "gameDir": ".minecraft",
+      "noCommon": false,
+      "global": {
+        "usesGlobal": false,
+        "javaArgs": "",
+        "minecraftArgs": "",
+        "maxMemory": "2047",
+        "permSize": "512",
+        "precalledCommand": "",
+        "serverIp": "s2.usuidc.cn:25694",
+        "java": "Default",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "launcherVisibility": 1,
+        "gameDirType": 0
+      }
+    }
+  },
+  "auth": {
+    "yggdrasil": {
+      "IAuthenticator_UserName": ""
+    },
+      "IAuthenticator_UserName": ""
+    }
+  },
+  "fontFamily": "Consolas",
+  "fontSize": 12,
+  "logLines": 100
+}
